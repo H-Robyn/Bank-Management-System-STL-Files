@@ -19,14 +19,14 @@ int main()
     {
         cout << endl;
         cout << "Our Services:  " << endl;
-        cout << "1. Admin Account " << endl;          // done
-        cout << "     (i)  Open New Account" << endl; // done
+        cout << "1. Admin Account " << endl;
+        cout << "     (i)  Open New Account" << endl;
         cout << "     (ii) Close Account" << endl;
         cout << "     (iii) See All Account Details" << endl;
-        cout << "2. Deposit Money" << endl;  // done
-        cout << "3. Update Account" << endl; // done
-        cout << "4. Withdraw Money" << endl; // done
-        cout << "5. Exit" << endl;           // done
+        cout << "2. Deposit Money" << endl;
+        cout << "3. Update Account" << endl;
+        cout << "4. Withdraw Money" << endl;
+        cout << "5. Exit" << endl;
         cout << endl
              << "Enter [1-5] to Access Service: ";
         cin >> choice;
